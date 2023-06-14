@@ -5,3 +5,4 @@ I'm broke and can't afford a graphic designer gf so I compiled this curated coll
 ## Icons
 
 - [Font Awesome](https://fontawesome.com/)
+- [Flaticon](https://www.flaticon.com/) 
