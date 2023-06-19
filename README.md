@@ -6,4 +6,6 @@ I'm broke and can't afford a graphic designer gf so I compiled this curated coll
 
 - [Font Awesome](https://fontawesome.com/)
 - [Flaticon](https://www.flaticon.com/)
-- [Icons8](https://icons8.com/) 
+- [Icons8](https://icons8.com/)
+- [Material Icons](https://material.io/resources/icons/)
+- [Feather Icons](https://feathericons.com/) 
