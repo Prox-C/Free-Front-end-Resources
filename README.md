@@ -10,4 +10,5 @@
 - [Material Icons](https://material.io/resources/icons/)
 - [Feather Icons](https://feathericons.com/) 
 
-## Fonts 
+## Fonts
+- [Google Fonts](https://fonts.google.com/)
