@@ -14,3 +14,4 @@
 - [Google Fonts](https://fonts.google.com/)
 - [Font Squirrel](https://www.fontsquirrel.com/)
 - [DaFont](https://www.dafont.com/)
+- [1001 Fonts](https://www.1001fonts.com/)
