@@ -18,3 +18,4 @@
 - [FontSpace](https://www.fontspace.com/)
 
 ## Others
+- [Coolors](https://coolors.co/): Color palette generator 
