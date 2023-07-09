@@ -18,4 +18,5 @@
 - [FontSpace](https://www.fontspace.com/)
 
 ## Others
-- [Coolors](https://coolors.co/): Color palette generator 
+- [Coolors](https://coolors.co/): Color palette generator
+- [CSS-Tricks](https://css-tricks.com/): CSS tutorials, tips, and tricks
