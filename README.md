@@ -20,3 +20,4 @@
 ## Others
 - [Coolors](https://coolors.co/): Color palette generator
 - [CSS-Tricks](https://css-tricks.com/): CSS tutorials, tips, and tricks
+- [CodePen](https://codepen.io/): Online code editor and community
