@@ -23,3 +23,4 @@
 - [CodePen](https://codepen.io/): Online code editor and community
 - [CSS Gradient](https://cssgradient.io/): CSS gradient generator
 - [Unsplash](https://unsplash.com/): Free high-resolution photos
+- [Pixabay](https://pixabay.com/): Free stock photos and videos
