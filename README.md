@@ -25,4 +25,6 @@
 - [Unsplash](https://unsplash.com/): Free high-resolution photos
 - [Pixabay](https://pixabay.com/): Free stock photos and videos
 - [Pexels](https://www.pexels.com/): Free stock photos and videos
-- [LottieFiles](https://lottiefiles.com/): Free animations for web and apps 
+- [LottieFiles](https://lottiefiles.com/): Free animations for web and apps
+- [FreePik](https://www.freepik.com/): Free vector art, illustrations, and PSD files
+realtimecolors.com - generate color pallettes.  
